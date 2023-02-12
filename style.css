@@ -1,0 +1,16 @@
+canvas {
+  background-color: #ddd;
+}
+
+#startBtn, #restartBtn {
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#startBtn:hover, #restartBtn:hover {
+  background-color: lightgreen;
+}
